@@ -75,13 +75,13 @@ If you're new to Forex or even an experienced trader, you’ve likely encountere
 
 ## 💼 Top Brokers That Offer ECN & STP Accounts (2025)
 
-| Broker         | ECN Available | STP Available | Affiliate Link |
+| Broker         | ECN Available | STP Available | Link |
 |----------------|----------------|----------------|----------------|
 | **Exness**     | ✅ Raw/Zero     | ✅ Standard     | [Open Now](https://one.exnesstrack.org/a/english23) |
 | **FP Markets** | ✅ ECN Raw      | ✅ Standard     | [Try Now](https://www.fpmarkets.com/?redir=stv&fpm-affiliate-utm-source=IB&fpm-affiliate-agt=56244) |
 | **JustMarkets**| ✅ Raw Spread   | ✅ Standard     | [Open Now](https://one.justmarkets.link/a/79iqw0j6nj) |
 | **Pepperstone**| ✅ Razor        | ✅ Standard     | [Start Here](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954) |
-| **IC Markets** | ✅ True ECN     | ❌ (ECN only)   | (Add link if affiliate available) |
+| **IC Markets** | ✅ True ECN     | ❌ (ECN only)   |  |
 
 ---
 
